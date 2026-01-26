@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dashboard
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Project-Rakshak
+An autonomous, intelligent disaster-response system powered by Google Gemini and Firebase
+>>>>>>> 13b4276f0122ee2494bac7931758eaae34a2c01b
